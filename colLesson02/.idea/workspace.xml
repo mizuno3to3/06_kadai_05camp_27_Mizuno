@@ -1,26 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c6b29ce-4f65-46f9-9a62-ecb5d7188ac0" name="Default Changelist" comment="" />
+    <list default="true" id="71a43651-0122-4418-8d25-a5cc9c465925" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -29,11 +15,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1QEOIRwdAa9zhbLHnmjJApFPlCE" />
+  <component name="ProjectId" id="1QXayP1IVydJVN12WjZ5alI1Yv8" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../day22/src/com/copmany/practice/Main.java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -47,10 +33,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ColLesson01">
-    <configuration name="ColLesson01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.ColLesson01" />
-      <module name="colLesson01" />
+  <component name="RunManager" selected="Application.colLesson02">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="colLesson02" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="colLesson02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.colLesson02" />
+      <module name="colLesson02" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.company.*" />
@@ -61,23 +57,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="colLesson01" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.ColLesson01" />
+      <item itemvalue="Application.colLesson02" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ColLesson01" />
+        <item itemvalue="Application.colLesson02" />
       </list>
     </recent_temporary>
   </component>
@@ -86,13 +72,15 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9c6b29ce-4f65-46f9-9a62-ecb5d7188ac0" name="Default Changelist" comment="" />
-      <created>1567332208454</created>
+      <changelist id="71a43651-0122-4418-8d25-a5cc9c465925" name="Default Changelist" comment="" />
+      <created>1567919650422</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1567332208454</updated>
-      <workItem from="1567332223732" duration="28236000" />
-      <workItem from="1567926766991" duration="83000" />
+      <updated>1567919650422</updated>
+      <workItem from="1567919672497" duration="6137000" />
+      <workItem from="1567926768739" duration="86000" />
+      <workItem from="1567928065624" duration="632000" />
+      <workItem from="1567932136479" duration="1865000" />
     </task>
     <servers />
   </component>
